@@ -4,4 +4,4 @@
 Escrito mientras se iniciaba el proyecto:
 
 
-El objetivo es crear una applicacion de escritorio con fines educativos-científicos de fácil interacción
+El objetivo es crear una aplicacion de escritorio con fines educativos-científicos de fácil interacción
